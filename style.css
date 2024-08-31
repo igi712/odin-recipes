@@ -1,0 +1,22 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1, h2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+li, p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    font-weight: bold;
+}
+
+img {
+    padding-left: 25%;
+    width: 50%;
+    height: auto;
+}
